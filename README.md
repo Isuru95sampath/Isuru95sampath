@@ -2,7 +2,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Isuru Sampath</h1>
-<h3 align="center">Frontend Developer | UI/UX Enthusiast | AI & Automation</h3>
+<h3 align="center">AI & Automation | Frontend Developer | UI/UX Enthusiast  </h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/03/07/8b0307ee84cba3c4693c6fb9c14fdb87.gif">
 
